@@ -1,4 +1,4 @@
-Hi, I am Rita👋
+Hi everyone👋
 
 I am a problem-solving passionate with a holistic approach. </br>
 
