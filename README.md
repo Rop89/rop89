@@ -1,7 +1,4 @@
-
-
 Hi, I am Rita👋
-
 
 I am a problem-solving passionate with a holistic approach. </br>
 
@@ -10,7 +7,7 @@ I have been leading teams for the past few years and as I like a new challenge d
 <h2>My programming knowledge 🎓</h2>
 
 HTML</br>
-CSS(including Flexbox)
+CSS(including Flexbox)</br>
 Javascript</br>
 Vue.js</br>
 Tailwind</br>
