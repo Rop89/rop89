@@ -15,7 +15,7 @@ Tailwind</br>
 
 <h1>Get in touch 📱</h1>
 
-<li>Linkedin:linkedin.com/in/rita-pinho-011684163/</li> </br>
+- Linkedin:<a>linkedin.com/in/rita-pinho-011684163/</a></li> 
 
 <h2>More about me</h2>
 
