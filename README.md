@@ -7,15 +7,18 @@ I am a problem-solving passionate with a holistic approach. </br>
 </br>
 I have been leading teams for the past few years and as I like a new challenge decided to learn how to code and it turned out to be something I am passionate about and spend a lot of time on. 
 
-<h1>My programming knowledge 🎓</h1>
+<h2>My programming knowledge 🎓</h2>
 
 CSS(including Flexbox),HTML and Javascript</br>
 Vue.js</br>
 Tailwind</br>
 
-<h1>Get in touch 📱</h1>
+<h2>Get in touch 📱</h2>
 
 - Linkedin:<a>linkedin.com/in/rita-pinho-011684163/</a></li> 
+
+<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RitaPinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rita-pinho-011684163/)](https://www.linkedin.com/in/rita-pinho-011684163/) 
+| 
 
 <h2>More about me</h2>
 
