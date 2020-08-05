@@ -15,9 +15,7 @@ Tailwind</br>
 
 <h2>Get in touch 📱</h2>
 
-- Linkedin:<a>linkedin.com/in/rita-pinho-011684163/</a></li> 
-
-<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RitaPinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rita-pinho-011684163/)](https://www.linkedin.com/in/rita-pinho-011684163/) 
+<br/> [![Linkedin Badge](https://img.shields.io/badge/-RitaPinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rita-pinho-011684163/)](https://www.linkedin.com/in/rita-pinho-011684163/) 
 | 
 
 <h2>More about me</h2>
