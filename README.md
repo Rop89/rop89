@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**Rop89/rop89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Rita Pinho 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi everybody👋
+
+I am a problem-solving passionate with a holistic approach. 
+I have been leading teams for the past few years and as I like a new challenge decided to learn how to code and it turned out to be something I am passionate about and spend a lot of time on. 
+
+<h1>My programming knowledge🎓</h1>
+
+CSS(including Flexbox),HTML and Javascript
+Vue.js
+Tailwind
+
+<h1>Get in touch📱</h1>
+
+<li>Linkedin:linkedin.com/in/rita-pinho-011684163/</li>
+
+- 🔭 I’m currently working on 3 web development projects
+- 🌱 I’m currently acquiring more knowledge on Vue.js
+- ⚡ Fun fact about me: Passionate about productivity strategies and anything that can increase the amount of time I have available for self-development.
