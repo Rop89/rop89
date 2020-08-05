@@ -1,19 +1,21 @@
 
 
-Hi, I am Rita Pinho 👋
+Hi, I am Rita👋
 
 
 I am a problem-solving passionate with a holistic approach. </br>
-</br>
+
 I have been leading teams for the past few years and as I like a new challenge decided to learn how to code and it turned out to be something I am passionate about and spend a lot of time on. 
 
 <h2>My programming knowledge 🎓</h2>
 
-CSS(including Flexbox),HTML and Javascript</br>
+HTML</br>
+CSS(including Flexbox)
+Javascript</br>
 Vue.js</br>
 Tailwind</br>
 
-<h2>Get in touch 📱</h2>
+<h2>How to reach me 📱</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-RitaPinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rita-pinho-011684163/)](https://www.linkedin.com/in/rita-pinho-011684163/) 
 
