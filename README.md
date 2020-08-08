@@ -22,7 +22,7 @@ Tailwind</br>
 
 - 🔭 I’m currently working on 3 web development projects
 - 🌱 I’m currently acquiring more knowledge on Javascript and Vue.js
-- 💜 Looking to collaborate on: Front-end projects that require Javascript and Vue.js
+- 💜 Looking to collaborate on: Dev projects that require Javascript and Vue.js
 - ⚡ Fun fact about me: Passionate about productivity strategies and anything that can increase the amount of time I have available for self-development.
 
 
