@@ -37,8 +37,6 @@ https://github.com/Rop89/phs
 
 https://github.com/Rop89/prodplus
 
-<img alt="Netlify" title="Netlify Logo" src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png"/>
-
 <h2>Projects in Netlify</h2>
 
 https://unruffled-poitras-9657db.netlify.app/
