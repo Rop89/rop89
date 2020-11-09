@@ -27,3 +27,22 @@ Tailwind</br>
 - ⚡ Fun fact about me: Passionate about productivity strategies and anything that can increase the amount of time I have available for self-development.
 
 
+<h2>Ongoing Projects 👇 </h2>
+
+<b>Code Refactoring - Personal Home Shopper</b>
+
+https://github.com/Rop89/phs
+
+<b> App development - Productivity App </b>
+
+https://github.com/Rop89/prodplus
+
+<img alt="Netlify" title="Netlify Logo" src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png"/>
+
+<h2>Projects in Netlify</h2>
+
+https://unruffled-poitras-9657db.netlify.app/
+https://frosty-heisenberg-8a8316.netlify.app/
+https://lucid-morse-0ddec1.netlify.app/
+
+
