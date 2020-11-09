@@ -39,8 +39,8 @@ https://github.com/Rop89/prodplus
 
 <h2>Projects in Netlify</h2>
 
-https://unruffled-poitras-9657db.netlify.app/
-https://frosty-heisenberg-8a8316.netlify.app/
-https://lucid-morse-0ddec1.netlify.app/
+https://unruffled-poitras-9657db.netlify.app/ </br>
+https://frosty-heisenberg-8a8316.netlify.app/ </br>
+https://lucid-morse-0ddec1.netlify.app/ </br>
 
 
