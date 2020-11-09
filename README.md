@@ -37,7 +37,7 @@ https://github.com/Rop89/phs
 
 https://github.com/Rop89/prodplus
 
-<h2>Projects in Netlify</h2>
+<h2>Projects in Netlify <b>(ongoing)</b></h2>
 
 https://unruffled-poitras-9657db.netlify.app/ </br>
 https://frosty-heisenberg-8a8316.netlify.app/ </br>
