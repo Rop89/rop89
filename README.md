@@ -12,7 +12,6 @@ Javascript</br>
 Vue.js</br>
 ReactJS</br>
 Tailwind</br>
-Next.js</br>
 
 <h2>How to reach me 📱</h2>
 
