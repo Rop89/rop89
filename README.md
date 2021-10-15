@@ -9,8 +9,8 @@ I have been leading teams for the past few years and as I like a new challenge d
 HTML</br>
 CSS(including Flexbox)</br>
 Javascript</br>
-Vue.js</br>
-ReactJS</br>
+ReactJs</br>
+NextJs</br>
 Tailwind</br>
 
 <h2>How to reach me 📱</h2>
@@ -21,9 +21,10 @@ Tailwind</br>
 
 <h2>More about me</h2>
 
-- 🔭 I’m currently working on 2 web development projects
-- 🌱 I’m currently acquiring more knowledge on Javascript and Frameworks
-- 💜 Looking to collaborate on: Dev projects that require HTML, CSS, Javascript and Frameworks
+- 🔭 I’m currently working at Alternative Airlines as a Fron-end Developer
+- 🌱 I’m currently acquiring more knowledge on TDD, React and Nextjs
+- 🧬 I’m currently studying Computer Science
+- 💜 Looking to collaborate on: Dev projects that require HTML, CSS, Javascript, Frameworks or TDD
 - ⚡ Fun fact about me: Passionate about productivity strategies and anything that can increase the amount of time I have available for self-development.
 
 
