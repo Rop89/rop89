@@ -21,7 +21,7 @@ Tailwind</br>
 
 <h2>More about me</h2>
 
-- 🔭 I’m currently working at Alternative Airlines as a Fron-end Developer
+- 🔭 I’m currently working at Alternative Airlines as a Front-end developer
 - 🌱 I’m currently acquiring more knowledge on TDD, React and Nextjs
 - 🧬 I’m currently studying Computer Science
 - 💜 Looking to collaborate on: Dev projects that require HTML, CSS, Javascript, Frameworks or TDD
