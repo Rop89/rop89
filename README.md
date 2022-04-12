@@ -15,7 +15,7 @@ Javascript</br>
 ReactJs</br>
 NextJs</br>
 Tailwind</br>
-Prismic</br>
+GraphQL</br>
 
 <h2>How to reach me 📱</h2>
 
