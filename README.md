@@ -2,16 +2,20 @@ Hi everyone👋
 
 I am a problem-solving passionate with a holistic approach. </br>
 
-I have been leading teams for the past few years and as I like a new challenge decided to learn how to code and it turned out to be something I am passionate about and spend a lot of time on. 
+I have changed careers from leading teams to Front-end development and am loving every moment of this challenge. Aside from my current job as a Front-end developer I have been studying Computer Science in order to understand more of what is going on inside my machine when working. 
+
+I am very self-driven and another passion of mine is personal growth and development. 
 
 <h2>My programming knowledge 🎓</h2>
 
 HTML</br>
-CSS(including Flexbox)</br>
+CSS</br>
+SCSS</br>
 Javascript</br>
 ReactJs</br>
 NextJs</br>
 Tailwind</br>
+Prismic</br>
 
 <h2>How to reach me 📱</h2>
 
