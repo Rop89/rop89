@@ -20,10 +20,10 @@ GraphQL</br>
 
 <h2> Main soft skills ✨</h2>
 
-Eager to learn
-Adaptability
-Team work
-Work ethic
+Eager to learn</br>
+Adaptability</br>
+Team work</br>
+Work ethic</br>
 
 <h2>How to reach me 📱</h2>
 
