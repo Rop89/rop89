@@ -2,7 +2,7 @@ Hi everyone👋
 
 I am a problem-solving passionate with a holistic approach. </br>
 
-I have changed careers from leading teams to Front-end development and am loving every moment of this challenge. Aside from my current job as a Front-end developer I have been studying Computer Science in order to understand more of what is going on inside my machine when working. 
+I have changed careers from leading teams to Front-end development and am loving every moment of this challenge. Aside from my current job as a Front-end engineer I have been studying Computer Science in order to understand more of what is going on inside my machine when working. 
 
 I am very self-driven and another passion of mine is personal growth and development. 
 
