@@ -2,7 +2,7 @@ Hi everyone👋
 
 I am a problem-solving passionate with a holistic approach. </br>
 
-I have changed careers from leading teams to Front-end development and am loving every moment of this challenge. Aside from my current job as a Front-end engineer I have been focusing on Leetcode challenges and learning unit testing. 
+I have changed careers from leading teams to Front-end development and lastly to Tech Project Lead. Aside from my current job as a Tech Project Lead I have been focusing on learning different tech stacks. 
 
 I am very self-driven and another passion of mine is personal growth and development. 
 
@@ -12,6 +12,7 @@ HTML</br>
 CSS</br>
 SCSS</br>
 Javascript</br>
+Typescript</br>
 ReactJs</br>
 ReactNative</br>
 NextJs</br>
@@ -33,10 +34,8 @@ Work ethic</br>
 
 <h2>More about me</h2>
 
-- 🔭 I’m currently working at Alternative Airlines as a Front-end engineer
-- 🌱 I’m currently acquiring more knowledge on Javascript, React, React Native and Nextjs
-- 🧬 I’m currently focusing on Leetcode challenges and unit testing
-- 💜 Looking to collaborate on: Dev projects that require React Native knowlegde
+- 🔭 I’m currently working at Alternative Airlines as Tech Project Lead
+- 🌱 I’m currently acquiring more knowledge on Back End technologies
 - ⚡ Fun fact about me: Passionate about productivity strategies and anything that can increase the amount of time I have available for self-development.
 
 
