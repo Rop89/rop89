@@ -47,5 +47,5 @@ https://github.com/Rop89/signal-clone
 
 Daily Dev Articles
 
-<a href="https://app.daily.dev/rpx89"><img src="https://api.daily.dev/devcards/3e7e6209fed14d149d812275bac60f37.png?r=hoz" width="400" alt="Rita's Dev Card"/></a>
+<a href="https://app.daily.dev/rpx89"><img src="https://api.daily.dev/devcards/3e7e6209fed14d149d812275bac60f37.png?r=i7h" width="400" alt="Rita's Dev Card"/></a>
 
