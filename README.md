@@ -2,7 +2,7 @@ Hi everyone👋
 
 I am a problem-solving passionate with a holistic approach. </br>
 
-I am a Tech Project Lead with a passion by solving challenges and coding. Aside from my current job as a Tech Project Lead I have been focusing on learning different tech stacks. 
+I am a Technical Project Manager with a passion for solving challenges and coding. Aside from my current job as TPM I have been focusing on learning different tech stacks. 
 
 I am very self-driven and another passion of mine is personal growth and development. 
 
