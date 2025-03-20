@@ -1,10 +1,8 @@
 Hi everyone👋
 
-I am a problem-solving passionate with a holistic approach. </br>
+I'm a Technical Project Manager who loves diving into technical projects and finding creative solutions. 
 
-I am a Technical Project Manager with a passion for solving challenges and coding. Aside from my current job as TPM I have been focusing on learning different tech stacks. 
-
-I am very self-driven and another passion of mine is personal growth and development. 
+I'm also a firm believer in lifelong learning and personal growth.
 
 <h2>My programming knowledge 🎓</h2>
 
@@ -34,16 +32,9 @@ Work ethic</br>
 
 <h2>More about me</h2>
 
-- 🔭 I’m currently working at Alternative Airlines as Tech Project Lead
-- 🌱 I’m currently acquiring more knowledge on Back End technologies
+- 🔭 I’m currently working at Alternative Airlines as a Technical Project Manager
+- 🌱 I’m currently acquiring more knowledge on different technologies and Agile Project Management
 - ⚡ Fun fact about me: Passionate about productivity strategies and anything that can increase the amount of time I have available for self-development.
-
-
-<h2>Ongoing Projects 👇 </h2>
-
-<b>Signal Clone - React Native</b>
-
-https://github.com/Rop89/signal-clone
 
 Daily Dev Articles
 
