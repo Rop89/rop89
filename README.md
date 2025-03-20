@@ -17,13 +17,6 @@ NextJs</br>
 Tailwind</br>
 GraphQL</br>
 
-<h2> Main soft skills ✨</h2>
-
-Eager to learn</br>
-Adaptability</br>
-Team work</br>
-Work ethic</br>
-
 <h2>How to reach me 📱</h2>
 
 [![Gmail Badge](https://img.shields.io/badge/-ritaa.pinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritaa.pinho@gmail.com)](mailto:ritaa.pinho@gmail.com)
